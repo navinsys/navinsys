@@ -59,7 +59,7 @@ I'm a **QA Engineer at Indium Software**, testing a banking and payments app acr
 |:--|:--|:--:|
 | **playwright-banking-framework** | Playwright + TypeScript tests for a demo banking site, with Page Object Model and CI | 🔨 In progress |
 
-## 🇯🇵 Beyond testing
+## 🌸 Beyond testing
 
 <img src="https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge" alt="Learning Japanese"/>
 
