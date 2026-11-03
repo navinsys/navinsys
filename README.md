@@ -59,6 +59,12 @@ I'm a **QA Engineer at Indium Software**, testing a banking and payments app acr
 |:--|:--|:--:|
 | **playwright-banking-framework** | Playwright + TypeScript tests for a demo banking site, with Page Object Model and CI | 🔨 In progress |
 
+## 🇯🇵 Beyond testing
+
+<img src="https://img.shields.io/badge/Japanese-Learning-BC002D?style=for-the-badge" alt="Learning Japanese"/>
+
+I'm actively learning **Japanese language and culture** (日本語を勉強中です) and would love to work in Japan in the future.
+
 ## 🎯 Goal
 
 Join a team as a **QA Automation Engineer / SDET** and build test suites that catch issues before users do.
